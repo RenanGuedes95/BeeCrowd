@@ -1,0 +1,15 @@
+C:\Users\Renan Guedes\Desktop\Análise e desenvolvimento de sistemas\BeeCrowd\Problem - 1000\bin\Debug\net9.0\Problem - 1000.exe
+C:\Users\Renan Guedes\Desktop\Análise e desenvolvimento de sistemas\BeeCrowd\Problem - 1000\bin\Debug\net9.0\Problem - 1000.deps.json
+C:\Users\Renan Guedes\Desktop\Análise e desenvolvimento de sistemas\BeeCrowd\Problem - 1000\bin\Debug\net9.0\Problem - 1000.runtimeconfig.json
+C:\Users\Renan Guedes\Desktop\Análise e desenvolvimento de sistemas\BeeCrowd\Problem - 1000\bin\Debug\net9.0\Problem - 1000.dll
+C:\Users\Renan Guedes\Desktop\Análise e desenvolvimento de sistemas\BeeCrowd\Problem - 1000\bin\Debug\net9.0\Problem - 1000.pdb
+C:\Users\Renan Guedes\Desktop\Análise e desenvolvimento de sistemas\BeeCrowd\Problem - 1000\obj\Debug\net9.0\Problem - 1000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan Guedes\Desktop\Análise e desenvolvimento de sistemas\BeeCrowd\Problem - 1000\obj\Debug\net9.0\Problem - 1000.AssemblyInfoInputs.cache
+C:\Users\Renan Guedes\Desktop\Análise e desenvolvimento de sistemas\BeeCrowd\Problem - 1000\obj\Debug\net9.0\Problem - 1000.AssemblyInfo.cs
+C:\Users\Renan Guedes\Desktop\Análise e desenvolvimento de sistemas\BeeCrowd\Problem - 1000\obj\Debug\net9.0\Problem - 1000.csproj.CoreCompileInputs.cache
+C:\Users\Renan Guedes\Desktop\Análise e desenvolvimento de sistemas\BeeCrowd\Problem - 1000\obj\Debug\net9.0\Problem - 1000.sourcelink.json
+C:\Users\Renan Guedes\Desktop\Análise e desenvolvimento de sistemas\BeeCrowd\Problem - 1000\obj\Debug\net9.0\Problem - 1000.dll
+C:\Users\Renan Guedes\Desktop\Análise e desenvolvimento de sistemas\BeeCrowd\Problem - 1000\obj\Debug\net9.0\refint\Problem - 1000.dll
+C:\Users\Renan Guedes\Desktop\Análise e desenvolvimento de sistemas\BeeCrowd\Problem - 1000\obj\Debug\net9.0\Problem - 1000.pdb
+C:\Users\Renan Guedes\Desktop\Análise e desenvolvimento de sistemas\BeeCrowd\Problem - 1000\obj\Debug\net9.0\Problem - 1000.genruntimeconfig.cache
+C:\Users\Renan Guedes\Desktop\Análise e desenvolvimento de sistemas\BeeCrowd\Problem - 1000\obj\Debug\net9.0\ref\Problem - 1000.dll
