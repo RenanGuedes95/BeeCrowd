@@ -1,0 +1,15 @@
+C:\Users\Renan Guedes\Desktop\Análise e desenvolvimento de sistemas\BeeCrowd\Problem - 1002\bin\Debug\net9.0\Problem - 1002.exe
+C:\Users\Renan Guedes\Desktop\Análise e desenvolvimento de sistemas\BeeCrowd\Problem - 1002\bin\Debug\net9.0\Problem - 1002.deps.json
+C:\Users\Renan Guedes\Desktop\Análise e desenvolvimento de sistemas\BeeCrowd\Problem - 1002\bin\Debug\net9.0\Problem - 1002.runtimeconfig.json
+C:\Users\Renan Guedes\Desktop\Análise e desenvolvimento de sistemas\BeeCrowd\Problem - 1002\bin\Debug\net9.0\Problem - 1002.dll
+C:\Users\Renan Guedes\Desktop\Análise e desenvolvimento de sistemas\BeeCrowd\Problem - 1002\bin\Debug\net9.0\Problem - 1002.pdb
+C:\Users\Renan Guedes\Desktop\Análise e desenvolvimento de sistemas\BeeCrowd\Problem - 1002\obj\Debug\net9.0\Problem - 1002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan Guedes\Desktop\Análise e desenvolvimento de sistemas\BeeCrowd\Problem - 1002\obj\Debug\net9.0\Problem - 1002.AssemblyInfoInputs.cache
+C:\Users\Renan Guedes\Desktop\Análise e desenvolvimento de sistemas\BeeCrowd\Problem - 1002\obj\Debug\net9.0\Problem - 1002.AssemblyInfo.cs
+C:\Users\Renan Guedes\Desktop\Análise e desenvolvimento de sistemas\BeeCrowd\Problem - 1002\obj\Debug\net9.0\Problem - 1002.csproj.CoreCompileInputs.cache
+C:\Users\Renan Guedes\Desktop\Análise e desenvolvimento de sistemas\BeeCrowd\Problem - 1002\obj\Debug\net9.0\Problem - 1002.sourcelink.json
+C:\Users\Renan Guedes\Desktop\Análise e desenvolvimento de sistemas\BeeCrowd\Problem - 1002\obj\Debug\net9.0\Problem - 1002.dll
+C:\Users\Renan Guedes\Desktop\Análise e desenvolvimento de sistemas\BeeCrowd\Problem - 1002\obj\Debug\net9.0\refint\Problem - 1002.dll
+C:\Users\Renan Guedes\Desktop\Análise e desenvolvimento de sistemas\BeeCrowd\Problem - 1002\obj\Debug\net9.0\Problem - 1002.pdb
+C:\Users\Renan Guedes\Desktop\Análise e desenvolvimento de sistemas\BeeCrowd\Problem - 1002\obj\Debug\net9.0\Problem - 1002.genruntimeconfig.cache
+C:\Users\Renan Guedes\Desktop\Análise e desenvolvimento de sistemas\BeeCrowd\Problem - 1002\obj\Debug\net9.0\ref\Problem - 1002.dll
