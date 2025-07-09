@@ -1,0 +1,15 @@
+D:\Análise e Desenvolvimento de Sistemas\BeeCrowd\Problem - 1009\C#\obj\Debug\net9.0\Problem - 1009.GeneratedMSBuildEditorConfig.editorconfig
+D:\Análise e Desenvolvimento de Sistemas\BeeCrowd\Problem - 1009\C#\obj\Debug\net9.0\Problem - 1009.AssemblyInfoInputs.cache
+D:\Análise e Desenvolvimento de Sistemas\BeeCrowd\Problem - 1009\C#\obj\Debug\net9.0\Problem - 1009.AssemblyInfo.cs
+D:\Análise e Desenvolvimento de Sistemas\BeeCrowd\Problem - 1009\C#\obj\Debug\net9.0\Problem - 1009.csproj.CoreCompileInputs.cache
+D:\Análise e Desenvolvimento de Sistemas\BeeCrowd\Problem - 1009\C#\obj\Debug\net9.0\Problem - 1009.sourcelink.json
+D:\Análise e Desenvolvimento de Sistemas\BeeCrowd\Problem - 1009\C#\bin\Debug\net9.0\Problem - 1009.exe
+D:\Análise e Desenvolvimento de Sistemas\BeeCrowd\Problem - 1009\C#\bin\Debug\net9.0\Problem - 1009.deps.json
+D:\Análise e Desenvolvimento de Sistemas\BeeCrowd\Problem - 1009\C#\bin\Debug\net9.0\Problem - 1009.runtimeconfig.json
+D:\Análise e Desenvolvimento de Sistemas\BeeCrowd\Problem - 1009\C#\bin\Debug\net9.0\Problem - 1009.dll
+D:\Análise e Desenvolvimento de Sistemas\BeeCrowd\Problem - 1009\C#\bin\Debug\net9.0\Problem - 1009.pdb
+D:\Análise e Desenvolvimento de Sistemas\BeeCrowd\Problem - 1009\C#\obj\Debug\net9.0\Problem - 1009.dll
+D:\Análise e Desenvolvimento de Sistemas\BeeCrowd\Problem - 1009\C#\obj\Debug\net9.0\refint\Problem - 1009.dll
+D:\Análise e Desenvolvimento de Sistemas\BeeCrowd\Problem - 1009\C#\obj\Debug\net9.0\Problem - 1009.pdb
+D:\Análise e Desenvolvimento de Sistemas\BeeCrowd\Problem - 1009\C#\obj\Debug\net9.0\Problem - 1009.genruntimeconfig.cache
+D:\Análise e Desenvolvimento de Sistemas\BeeCrowd\Problem - 1009\C#\obj\Debug\net9.0\ref\Problem - 1009.dll
