@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Problem - 1004")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5933935fdb7428ddf4cbf8fdf79eb27e2e2fe47")]
-[assembly: System.Reflection.AssemblyProductAttribute("Problem - 1004")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Problem - 1004")]
+[assembly: System.Reflection.AssemblyProductAttribute("C#")]
+[assembly: System.Reflection.AssemblyTitleAttribute("C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
